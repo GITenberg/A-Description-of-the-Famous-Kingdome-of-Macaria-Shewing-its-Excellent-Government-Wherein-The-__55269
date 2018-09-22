@@ -1,25 +1,30 @@
 _repo: A-Description-of-the-Famous-Kingdome-of-Macaria-Shewing-its-Excellent-Government-Wherein-The-__55269
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   other_contributors:
   - agent_name: Constable, Francis
     gutenberg_agent_id: '48258'
     url: http://www.gutenberg.org/2009/agents/48258
   - agent_name: Hartlib, Samuel
-    birthdate: &id001 1600
+    birthdate: 1600
     deathdate: 1662
     gutenberg_agent_id: '48257'
     url: http://www.gutenberg.org/2009/agents/48257
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Hartlib
+covers:
+- cover_type: archival
+  image_path: 55269-h/images/cover.jpg
 creator:
   author:
     agent_name: Plattes, Gabriel
-    birthdate: *id001
+    birthdate: 1600
     deathdate: 1644
     gutenberg_agent_id: '48256'
     url: http://www.gutenberg.org/2009/agents/48256
     wikipedia: https://en.wikipedia.org/wiki/Gabriel_Plattes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55269#A-Description-of-the-Famous-Kingdome-of-Macaria-Shewing-its-Excellent-Government-Wherein-The-_
 gutenberg_issued: '2017-08-05'
 gutenberg_type: Text
 identifiers:
